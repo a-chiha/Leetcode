@@ -1,2 +1,2 @@
 # Leetcode
-LeetCode Solutions – My Collection of Solved Problems
+LeetCode Solutions – Ahmad Chiha's Collection of Solved Problems
