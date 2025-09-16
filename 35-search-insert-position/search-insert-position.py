@@ -7,5 +7,4 @@ class Solution:
             if x > target:
                 return result  
             result+=1
-
         return result
